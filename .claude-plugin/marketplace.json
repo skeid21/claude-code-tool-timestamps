@@ -1,0 +1,14 @@
+{
+  "name": "tool-timestamps",
+  "owner": {
+    "name": "Shawn H"
+  },
+  "description": "Timestamps and durations on Claude Code's tool calls and replies.",
+  "plugins": [
+    {
+      "name": "tool-timestamps",
+      "source": "./",
+      "description": "Shows the local start time and duration of every tool call, and the time of every reply."
+    }
+  ]
+}

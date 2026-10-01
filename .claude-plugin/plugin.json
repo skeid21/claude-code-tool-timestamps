@@ -1,0 +1,12 @@
+{
+  "name": "tool-timestamps",
+  "displayName": "Tool Timestamps",
+  "version": "0.1.0",
+  "description": "Shows the local start time and duration at the right edge of every tool call row, and the time of every reply, so you can see how long each step took.",
+  "author": {
+    "name": "Shawn H"
+  },
+  "license": "MIT",
+  "keywords": ["timestamps", "time", "duration", "tools", "productivity"],
+  "types": "./types/index.d.ts"
+}
